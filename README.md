@@ -1,5 +1,5 @@
 # MC_public
-***Welcome to Michael Crowley's Public Repo***
+***Welcome to Michael Crowley's Public Github Repository***\n
 #This Repo contains tested and functional scripts and completed projects.
 # Student: App Academy Open - Software Engineer
 # Military Vet with physical architecture training and experience
