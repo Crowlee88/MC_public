@@ -3,7 +3,7 @@
 #This Repo contains tested and functional scripts and completed projects.
 # Student: App Academy Open - Software Engineer
 # Military Vet with physical architecture training and experience
-#***Experience with:*** 
+***Experience with:*** 
 #PC & Laptop planning/building/maintenance ; VBScript (Windows Batch Files)| 
 #System Refresh ; Printers ; and other Help Desk Operations/Management|
 #Cisco (Routing & Switching configuration) ; GNS3 (Network Planning & Virtualization); Field Tech Operations|
