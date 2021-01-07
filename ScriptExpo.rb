@@ -79,10 +79,27 @@ while guess != secret_num and !out_of_guesses
      end
      guess_count += 1
 end
-
 if out_of_guesses
      puts "You Lose!"
 else
      puts "You Win!"
 end
+#\pe_end
+
+#***Personal Experiment***
+#\pe_start
+def is_palindrome(word)
+	reversed = ""
+  	i = 0
+  	while i < word.length
+      char = word[i]
+      reversed = char + reversed
+      i += 1
+    end
+    puts reversed
+  	return reversed == word
+end
+puts is_palindrome("racecar")  #Result: true
+puts is_palindrome("kayak")    #        true
+puts is_palindrome("bootcamp") #        false
 #\pe_end
