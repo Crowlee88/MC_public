@@ -1,8 +1,8 @@
 # MC_public
 ***Welcome to Michael Crowley's Public Repo***
 #This Repo contains tested and functional scripts and completed projects.
-#Student: App Academy Open - Software Engineer
-#Military Vet with physical architecture training and experience
+# Student: App Academy Open - Software Engineer
+# Military Vet with physical architecture training and experience
 #Experience with: 
 # PC & Laptop planning/building/maintenance, VBScript (Windows Batch Files); 
 # System Refresh, Printers, and other Help Desk Operations/Management
