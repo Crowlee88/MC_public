@@ -1,4 +1,4 @@
-# MC_public
+# MC_public_rb
 ***Welcome to Michael Crowley's Public Github Repository***
 #This Repo contains tested and functional scripts and completed projects.
 # Student: App Academy Open - Software Engineer
