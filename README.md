@@ -11,4 +11,4 @@
 #IEEE Cabling Standards (Fiber Optic ; S/UTP ; Coaxial)|
 #SATCOM ; TACLANE ; WiFi ; Handheld Electronics ; VoIP|
 #Ruby ; Python ; JavaScript ; HTML|
-#Seeking: Mentors, General Connections, Project Collaboration, Project Suggestions, Paid Project Assignments
+# Seeking: Mentors, General Connections, Project Collaboration, Project Suggestions, Paid Project Assignments
