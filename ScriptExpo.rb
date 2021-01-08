@@ -103,3 +103,18 @@ puts is_palindrome("racecar")  #Result: true
 puts is_palindrome("kayak")    #        true
 puts is_palindrome("bootcamp") #        false
 #\pe_end
+
+#***Personal Experiment***
+#\pe_start
+def doubler(numbers)
+	doubled_nums = []
+  	i = 0
+  	while i < numbers.length
+      doubled_nums << numbers[i] * 3
+      i += 1
+    end
+  	return doubled_nums
+end
+print doubler([1, 2, 3, 4]), "\n" #Result: [3, 6, 9, 12]
+print doubler([7, 1, 8])          #        [21, 3, 24]
+#\pe_end
